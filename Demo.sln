@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndPointOld", "EndPoint\EndPointOld.csproj", "{EE077443-0738-4CE1-B8CE-6D82782F933D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{E0BB284A-85F9-4D56-8751-16DE8FF62771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.DAL", "Demo.DAL\Demo.DAL.csproj", "{003BE65B-BD11-44AC-8544-14DC49787073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE077443-0738-4CE1-B8CE-6D82782F933D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE077443-0738-4CE1-B8CE-6D82782F933D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE077443-0738-4CE1-B8CE-6D82782F933D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE077443-0738-4CE1-B8CE-6D82782F933D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BB284A-85F9-4D56-8751-16DE8FF62771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BB284A-85F9-4D56-8751-16DE8FF62771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BB284A-85F9-4D56-8751-16DE8FF62771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BB284A-85F9-4D56-8751-16DE8FF62771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003BE65B-BD11-44AC-8544-14DC49787073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003BE65B-BD11-44AC-8544-14DC49787073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003BE65B-BD11-44AC-8544-14DC49787073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003BE65B-BD11-44AC-8544-14DC49787073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DFED96-931E-4339-B0FC-EFED34D56223}
+	EndGlobalSection
+EndGlobal
